@@ -20,9 +20,6 @@
 
 <h1 align="center">Hello, I'm Şafak 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  Backend Developer</h3>
 
 ###
 
