@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Şafak</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akdemirsafak&label=Profile%20views&color=0e75b6&style=flat" alt="akdemirsafak" /> </p>
 
@@ -7,8 +6,6 @@
 - 🌱 I’m currently learning **.Net Core, Vuejs**
 - 💬 Ask me about **C# and .Net Core, Js**
 - 📫 How to reach me **akdemirsafak@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/akdemirsafak?tab=repositories**
-- 📝 I regularly write articles on **https://medium.com/@akdemirsafak**
 
 <div> <a href="https://www.linkedin.com/in/akdemirsafak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/akdemirsafak" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
