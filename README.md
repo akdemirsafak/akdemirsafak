@@ -3,9 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Şafak</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akdemirsafak&label=Profile%20views&color=0e75b6&style=flat" alt="akdemirsafak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akdemirsafak&theme=default" alt="akdemirsafak" /></a> </p>
 
 - 🌱 I’m currently learning **.Net Core, Vuejs**
 - 💬 Ask me about **C# and .Net Core, Js**
