@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Şafak</h1>
 
-- 🌱 I’m currently learning **.Net Core, Vuejs**
+- 🌱 I’m currently learning **.Net Core, NuxtJs,Vuetify **
 - 💬 Ask me about **C# and .Net Core, Js**
 - 📫 How to reach me **akdemirsafak@gmail.com**
 
