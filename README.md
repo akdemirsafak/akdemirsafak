@@ -7,18 +7,19 @@
 - 📫 How to reach me **akdemirsafak@gmail.com**
 
 
+<hr> <br>
+## Projects, Examples and Docs. <br>
+1. Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR 
+2. Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation 
+3. Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation 
+4. Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis 
+5. Asp.NetCore Jwt with Identity Project => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/Identity_JwtToken) 
+6. Asp.NetCore Serilog Example => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/SerilogExample) 
+7. Asp.NetCore IdentityMvc => https://github.com/akdemirsafak/IdentityMvc
+
+<br>
 <hr>
-
-Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR <br>
-Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation <br>
-Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation <br>
-Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis <br>
-Asp.NetCore Jwt with Identity Project => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/Identity_JwtToken) <br>
-Asp.NetCore Serilog Example => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/SerilogExample) <br>
-Asp.NetCore IdentityMvc => https://github.com/akdemirsafak/IdentityMvc
-
-<hr>
-
+<br>
 
 
 <div> <a href="https://www.linkedin.com/in/akdemirsafak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
