@@ -8,7 +8,15 @@
 
 
 <hr>
-Asp.NetCore Sentry Project => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation
+
+Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR
+Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation
+
+Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation
+Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis
+Asp.NetCore Jwt with Identity Project => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/Identity_JwtToken)
+Asp.NetCore Serilog Example => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/SerilogExample)
+Asp.NetCore IdentityMvc => https://github.com/akdemirsafak/IdentityMvc
 
 <hr>
 
