@@ -8,7 +8,7 @@
 
 
 <hr>
-[Asp.NetCore Sentry.io](https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation)
+Asp.NetCore Sentry Project => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation
 
 <hr>
 
