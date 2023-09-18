@@ -7,16 +7,15 @@
 - 📫 How to reach me **akdemirsafak@gmail.com**
 
 
-<hr> <br>
 <h2> Projects, Examples and Docs. </h2><br>
 <ul>
   <li> Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR </li>
   <li> Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation </li>
   <li> Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation </li>
   <li> Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis </li>
-  <li> Asp.NetCore Jwt with Identity Project => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/Identity_JwtToken) </li>
+  <li> Asp.NetCore Jwt with Identity Project => https://github.com/akdemirsafak/Identity_JwtToken </li>
   <li> Asp.NetCore IdentityMvc => https://github.com/akdemirsafak/IdentityMvc</li>
-  <li> Asp.NetCore Serilog Example => [https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation](https://github.com/akdemirsafak/SerilogExample) </li>
+  <li> Asp.NetCore Serilog Example => https://github.com/akdemirsafak/SerilogExample </li>
 </ul>
 
 <br>
