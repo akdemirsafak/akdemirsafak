@@ -8,7 +8,7 @@
 
 
 <hr> <br>
-## Projects, Examples and Docs. <br>
+<h2> Projects, Examples and Docs. </h2><br>
 1. Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR 
 2. Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation 
 3. Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation 
