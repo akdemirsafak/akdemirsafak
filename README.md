@@ -11,7 +11,6 @@
 <ul>
   <li> Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR </li>
   <li> Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation </li>
-  <li> Asp.NetCore Sentry Example => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation </li>
   <li> Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis </li>
   <li> Asp.NetCore Jwt with Identity Project => https://github.com/akdemirsafak/Identity_JwtToken </li>
   <li> Asp.NetCore IdentityMvc => https://github.com/akdemirsafak/IdentityMvc</li>
