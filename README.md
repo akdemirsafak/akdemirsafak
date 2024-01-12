@@ -12,6 +12,8 @@
   <li> React Material UI elements => https://github.com/akdemirsafak/ReactAndMui </li>
   <li> Cron Jobs - Hangfire => https://github.com/akdemirsafak/HangfireBackgroundJobs </li>
   <li> Asp.NetCore Cqrs Pattern Dapper Project => https://github.com/akdemirsafak/CentralPerk_MediatR </li>
+  <li>Domain Driven Design Exam => https://github.com/akdemirsafak/DomainDrivenDesign_Exam</li>
+  <li>Bogus Fake Data => https://github.com/akdemirsafak/BogusFakeData</li>
   <li> Asp.NetCore Sentry Document => https://github.com/akdemirsafak/Asp.NetCore-Sentry.io-Documentation </li>
   <li> Asp.NetCore Redis Example => https://github.com/akdemirsafak/InMemory_Distributed_Caching_Redis </li>
   <li> Asp.NetCore Jwt with Identity Project => https://github.com/akdemirsafak/Identity_JwtToken </li>
